@@ -21,7 +21,6 @@ git clone https://github.com/cms-jet/JMEDAS.git Analysis/JMEDAS -b DASJan2022
 git clone https://github.com/cms-jet/JetToolbox Analysis/JetToolbox -b jetToolbox_102X_v3
 cd Analysis/JMEDAS
 scram b -j 4
-cd test
 ```
 
 Now you are ready to continue with the exercises. Additionally, see the instructions on how to set your grid-certificate below.
